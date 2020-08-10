@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".ActivityTips">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/tips_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark"
+        app:title="@string/Tips">
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="10">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:orientation="vertical"
+               android:layout_margin="10dp">
+
+               <TextView
+                   android:id="@+id/heading1"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:layout_margin="10dp"
+                   android:text="@string/TipsHeading1"
+                   android:textColor="@android:color/black"
+                   android:textStyle="bold" />
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/article1"
+                   android:layout_margin="10dp"
+                   android:textStyle="italic"/>
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/article2"
+                   android:layout_margin="10dp"
+                   android:textStyle="italic"/>
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/article3"
+                   android:layout_margin="10dp"
+                   android:textStyle="italic"/>
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/article4"
+                   android:layout_margin="10dp"
+                   android:textStyle="italic"/>
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/article5"
+                   android:layout_margin="10dp"
+                   android:textStyle="italic"/>
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/article6"
+                   android:layout_margin="10dp"
+                   android:textStyle="italic"/>
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/article7"
+                   android:layout_margin="10dp"
+                   android:textStyle="italic"/>
+
+               <TextView
+                   android:id="@+id/heading2"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:layout_margin="10dp"
+                   android:text="@string/TipsHeading2"
+                   android:textColor="@android:color/black"
+                   android:textStyle="bold" />
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/article8"
+                   android:layout_margin="10dp"
+                   android:textStyle="italic"/>
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/article9"
+                   android:layout_margin="10dp"
+                   android:textStyle="italic"/>
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/article10"
+                   android:layout_margin="10dp"
+                   android:textStyle="italic"/>
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/article11"
+                   android:layout_margin="10dp"
+                   android:textStyle="italic"/>
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/article12"
+                   android:layout_margin="10dp"
+                   android:textStyle="italic"/>
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/article13"
+                   android:layout_margin="10dp"
+                   android:textStyle="italic"/>
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/article14"
+                   android:layout_margin="10dp"
+                   android:textStyle="italic"/>
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/article15"
+                   android:layout_margin="10dp"
+                   android:textStyle="italic"/>
+               <TextView
+                   android:id="@+id/heading3"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:layout_margin="10dp"
+                   android:text="@string/TipsHeading3"
+                   android:textColor="@android:color/black"
+                   android:textStyle="bold" />
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="@string/article16"
+                   android:layout_margin="10dp"
+                   android:textStyle="italic"/>
+
+
+
+           </LinearLayout>
+
+
+
+
+
+
+
+
+
+        </ScrollView>
+    </RelativeLayout>
+
+
+
+</LinearLayout>

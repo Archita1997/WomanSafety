@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".ActivityLaw">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/law_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark"
+        app:title="@string/Law">
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="10">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="10dp">
+
+            <TextView
+                android:id="@+id/law_heading"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="@string/LawHeading"
+                android:textColor="@android:color/black"
+                android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/link1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/link1"
+                    android:layout_margin="10dp"
+                    android:textStyle="italic"/>
+                <TextView
+                    android:id="@+id/link2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/link2"
+                    android:layout_margin="10dp"
+                    android:textStyle="italic"/>
+                <TextView
+                    android:id="@+id/link3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/link3"
+                    android:layout_margin="10dp"
+                    android:textStyle="italic"/>
+                <TextView
+                    android:id="@+id/link4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/link4"
+                    android:layout_margin="10dp"
+                    android:textStyle="italic"/>
+                <TextView
+                    android:id="@+id/link5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/link5"
+                    android:layout_margin="10dp"
+                    android:textStyle="italic"/>
+                <TextView
+                    android:id="@+id/link6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/link6"
+                    android:layout_margin="10dp"
+                    android:textStyle="italic"/>
+                <TextView
+                    android:id="@+id/link7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/link7"
+                    android:layout_margin="10dp"
+                    android:textStyle="italic"/>
+                <TextView
+                    android:id="@+id/link8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/link8"
+                    android:layout_margin="10dp"
+                    android:textStyle="italic"/>
+                <TextView
+                    android:id="@+id/link9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/link9"
+                    android:layout_margin="10dp"
+                    android:textStyle="italic"/>
+                <TextView
+                    android:id="@+id/link10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/link10"
+                    android:layout_margin="10dp"
+                    android:textStyle="italic"/>
+                <TextView
+                    android:id="@+id/link11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/link11"
+                    android:layout_margin="10dp"
+                    android:textStyle="italic"/>
+            </LinearLayout>
+
+
+        </ScrollView>
+    </RelativeLayout>
+
+</LinearLayout>

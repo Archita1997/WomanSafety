@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">WomanSafety</string>
+    <string name="TextView1">WOMAN SAFETY</string>
+    <string name="TextView2">Emergency Call</string>
+    <string name="Tips">Tips for Woman Safety</string>
+    <string name="Escape">Tips to Escape from Threat</string>
+    <string name="Law">Laws Related to Woman</string>
+    <string name="SelfDefence">Videos for Self Defence</string>
+    <string name="button">Add Number</string>
+    <string name="toolbartxt">Home</string>
+    <string name="Navigation">Navigation Description</string>
+    <string name="MenuItem1">Language</string>
+    <string name="MenuItem2">English</string>
+    <string name="MenuItem3">Hindi</string>
+    <string name="MenuItem4">Bengali</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="rate">Rate us</string>
+    <string name="share">Share</string>
+
+
+    <string name="TipsHeading1">Some Important Tips Regarding Woman Safety </string>
+    <string name="article1">1.Woman must have all the emergency number with them and WhatsApp also
+    if possible so that they can immediately tell to their family members and police. </string>
+    <string name="article2">2.Always be aware. While going through your day to day duties of work, kids, school run, dinner – all those fun life admin tasks that never stop,
+keep awareness top of mind. Regularly check on your home security and look for anything that’s out of place,
+don’t forget to arm your alarm when leaving in a rush, and always take note of your surroundings</string>
+    <string name="article3">3. When you are travelling in an auto alone, make sure you share the auto number with someone in your family even if it’s during the day.Similarly, if you have booked a cab, always share your coordinates with someone.</string>
+    <string name="article4">4.Hold your bag as tightly as you can when you are taking public transport.you can use it to hit your predator.</string>
+    <string name="article5">5.When you are walking on a road, keep your mobile phone handy but avoid using it. Being on the phone makes you less alert.  </string>
+    <string name="article6">6. When in office, avoid going to isolated areas with no CCTV cameras.</string>
+    <string name="article7">7.If you have parked your car, always look underneath, especially at night or at a less-crowded area.</string>
+    <string name="TipsHeading2">Most Important</string>
+    <string name="article8">8.Whenever you are posting anything on social media, make sure you don’t do it in real-time. Because if you do, you’re telling people on your social media about your whereabouts. Delay those posts by say, 20-30 minutes.</string>
+    <string name="article9">9.Always ensure you aren’t posting anything on your social media with your address or phone number on it.</string>
+    <string name="article10">10.Whenever you are giving out order for delivery at a grocery store, make sure you whisper your address or write it down somewhere and give it to the shopkeeper. Never announce it.</string>
+    <string name="article11">11.Always pour your own drinks at parties and don’t ever take drinks from complete strangers or even friends. If you’ve left your drink unattended for even a few minutes, leave it and get a fresh drink. It may have been spiked when you weren’t looking.</string>
+    <string name="article12">12.If you feel someone is stalking you, try to find a crowded place and call someone for help.</string>
+    <string name="article13">13.When taking an overnight train or bus, secure your luggage with a cable lock to ensure against theft while you are asleep. To prevent thieves from grabbing contents from your bag, always lock the zippers together. Consider investing in bags with security features such as slash proof handles</string>
+    <string name="article14">14.If someone is chasing after you, run away in a zig zag pattern. This will exhaust your attacker.</string>
+    <string name="article15">15.Hit the body parts that are the most tender if you have to defend yourself against an attacker. You want to aim at whatever is going to hurt the most, regardless of the attacker’s strength and size. These are vulnerable areas like the eyes, nose, throat, groin and shin.</string>
+    <string name="TipsHeading3">Conclusion</string>
+    <string name="article16">Woman safety is a big social issue which needs to be solved urgently by the effort of all. It is inhibiting the growth and developement of the country and most importantly hurting the half population of the country in all aspects.</string>
+
+
+    <string name="LawHeading">The Indian Penal Code,1860,lays down the provisions to penalise the culprit for the heinous offences against women.Various sections under IPS specifically deals with such crimes. </string>
+    <string name="link1"><a href="https://en.wikipedia.org/wiki/Section_326_A_of_the_Indian_Penal_Code">Acid Attack(Sections 326A and 326B)</a></string>
+    <string name="link2"><a href="https://en.wikipedia.org/wiki/Laws_regarding_rape">Rape(Section 375,376,376A,376B,376C,376D and 376E)</a></string>
+    <string name="link3"><a href="https://www.lawctopus.com/academike/offences-women-ipc/">Kidnapping and abduction for different purpose(Section 363-373)</a></string>
+    <string name="link4"><a href="https://sites.google.com/site/mmmlawreport/criminal-procedure-code-1/sec498a302andsec304bofipc-whenwasmurderwithin7yearsofmarriagecourthastoframeanalternativechargeundersec304balongwithsec302ofipc-ifnotframedcourtcannotconvicttheaccusedundersec304bintheabsenceofcaseundersec302ofipc-caseremandedforframingofchargeandfordisposalgivinganopportunitytotheaccusedsubramaniappellantsoleaccusedvsstaterepbydeputysuperintendentofpolicestationjeeyapuramsubdivisionramjinagarpolicestationtrichirappallidistrictrespondentreportedinhttpjudisnicinjudischennaiqrydispfreeaspxfilename62389">Murder,Dowry death,Abetment of Suicide,etc.(Section 302,304B,306)</a></string>
+
+    <string name="link5"><a href="https://www.legalbites.in/cruelty-by-husband-relatives-section-498a/">Cruelty by husband or his relatives(Section 498A)</a></string>
+    <string name="link6"><a href="https://devgan.in/ipc/section/354/">Outraging the modesty of women(Section 354)</a></string>
+    <string name="link7"><a href="https://devgan.in/ipc/section/354A/">Sexual harassment(Section 354A)</a></string>
+    <string name="link8"><a href="https://devgan.in/ipc/section/354B/">Assault on women with intent to disrobe a woman(Section 354B)</a></string>
+    <string name="link9"><a href="https://devgan.in/ipc/section/354C/">Voyeurism(Section 354C)</a></string>
+    <string name="link10"><a href="https://devgan.in/ipc/section/354D/">Stalking(Section 354D)</a></string>
+    <string name="link11"><a href="https://devgan.in/ipc/section/509/">Word, gesture or act intended to insult the modesty of woman(Section 509)</a></string>
+
+
+    <string name="et1">1. What should a woman do if she finds herself alone in the company of a strange male as she prepares to enter a lift in a High Rise apartment late at night..???</string>
+    <string name="et1a">Expert say : Enter the lift... If you need to reach the 13th floor,press all the buttons us to your destination.No one will dare attack you in a lift that stops on every floor.</string>
+    <string name="et2">2. What to do if a stranger tries to attack you when you are alone in your house,run into the kitchen.</string>
+    <string name="et2a">Expert say : You alone know where the chilli powder and turmeric are kept.And where the knives and plates are .All these can be turned into deadly weapons.If nothing else,start throwing plates and utensils all over.Let them break.Scream..Remember that noise is the greatest enemy of a molestar.He does not want to be caught..</string>
+    <string name="et3">3. Taking an Auto or Taxi at Night.</string>
+    <string name="et3a">Experts Say : Before getting into an auto at night, note down its registration number.Then use the mobile to call your family or friend and pass on the details to them in the language the driver understands.Even if no one answers your call,pretend you are in converstation.The driver now knows someone has his details and he will be in serious trouble if anything goes wrong.He is now bound to take you home safe and sound.A potential attacker is now your de facto protector.</string>
+    <string name="et4">4. Avoid a car jerking.</string>
+    <string name="et4a">Experts Say : Lock all doors and keep windows up when driving. Most car-jackings take place when vehicles are stopped at intersections. The criminals approach at a 45-degree angle (in the blind spot), and either pull you out of the driver’s seat or jump in the passenger’s seat.</string>
+    <string name="et5">5. If you are stalked at night....</string>
+    <string name="et5a">Expert Say : Enter a shop or a house and Explain your predicament.If its is night and shops are not open,go inside an ATM box.ATM centres always have close circuit television.Fearing identification,no One will dare attack you. </string>
+    <string name="et6">6. Use the Internet wisely.</string>
+    <string name="et6a">Although the Internet is educational and entertaining, it can also be full of danger if one isn’t careful. When communicating online, use a nickname and always keep personal information such as home address and phone number confidential. Instruct family members to do the same. Keep current on security issues, frauds, viruses, etc. by periodically referring to “The Police Notebook” Internet Safety Page.</string>
+    <string name="conclusion"> After all, being mentally alert is the greatest weapon you can ever have </string>
+    <string name="skip">Skip>></string>
+    <string name="submit">Submit</string>
+    <string name="ok">OK</string>
+    <string name="txt_about1">Woman Safety App is developed for protecting lives of people in any emergency situation.Just tap the emergency button to raise
+    a emergency alert to the trusted contacts saved in the application. The emergency alert will be in form of SMS informing that you are unsafe and need help.
+    The SMS includes accurate current GPS location with address of the user along with google map links. The trusted contacts can use this google map
+    link to get directions and navigate to the exact location of the distressed person. The app can be used for your personal safety, woman safety and children safety.</string>
+    <string name="txt_about2">Woman Safety App also provides tips for woman safety, tips to escape from threat, Indian penal code sections related to
+    woman and videos that helps for self defence.</string>
+    <string name="txt_about3">Woman Safety App is meant for emergency alerts in case of any emergencies. So, developers are not responsible for any misuse pf the application. </string>
+</resources>
